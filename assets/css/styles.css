@@ -427,3 +427,13 @@ footer {
     max-width: 17.75rem;
   }
 }
+.newstyle{
+  position: absolute;
+  box-sizing:block;
+  width:30%;
+  right:555px;
+  border:yellow solid 1rem;
+}
+.newstyle:hover{
+    background-color: skyblue;
+}
