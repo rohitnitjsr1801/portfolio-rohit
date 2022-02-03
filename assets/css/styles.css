@@ -444,6 +444,7 @@ footer {
   box-sizing:block;
   width:30%;
   right:555px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.1);
   border:yellow solid 1rem;
 }
 .newstyle:hover{
