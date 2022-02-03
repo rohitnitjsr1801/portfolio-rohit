@@ -67,6 +67,18 @@ nav {
   background-color: var(--bg-color);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
+.boxdes{
+  position:absolute;
+  top: 245%;
+  right:36.5%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 0.7rem;
+  background-color: var(--bg-color);
+  box-shadow: 0 14px 14px rgba(0, 0, 0, 0.1);
+}
 
 nav h1 {
   color: var(--primary-color);
