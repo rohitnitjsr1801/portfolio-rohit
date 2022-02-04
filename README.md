@@ -8,7 +8,7 @@ This is the [link](https://github.com/rohitnitjsr1801/portfolio-rohit) to the Gi
 
 ## Website
 
-A live demo is already available via this [link](https://rohit-1801portfolio.netlify.app//?)
+A live demo is already available via this [link](https://rohit-1801-portfolio.netlify.app//?)
 
 ## Tech Stack
 
