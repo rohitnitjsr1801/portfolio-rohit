@@ -438,6 +438,12 @@ footer {
   .contact-form-container {
     max-width: 17.75rem;
   }
+  .boxdes{
+    font-size:x-small;
+    top:auto;
+    right:auto;
+    width: 17.875rem;
+  }
 }
 .newstyle{
   position: absolute;
