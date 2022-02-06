@@ -428,7 +428,7 @@ footer {
   }
   .newstyle{
     left:auto;
-     max-width:17.5rem;
+     width:fit-content;
   }
   .boxdes{
     font-size:xx-small;
@@ -438,7 +438,7 @@ footer {
 }
 .newstyle{
   margin: auto;
-  width: 70%;
+  width: 55%;
   box-shadow: 0 14px 40px rgba(0, 0, 0, 0.1);
   border:yellow solid 1rem;
 }
@@ -448,7 +448,7 @@ footer {
 }
 .boxdes{
   margin: auto;
-  width:70%;
+  width:55%;
   padding: 0rem 0rem;
   background-color: var(--bg-color);
   box-shadow: 0 14px 14px rgba(0, 0, 0, 0.1);
